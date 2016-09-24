@@ -3,7 +3,7 @@
 
   <groupId>com.github.argherna.grundy</groupId>
   <artifactId>grundy</artifactId>
-  <version>1.0.0-SNAPSHOT</version>
+  <version>1.0.0</version>
   <packaging>jar</packaging>
 
   <url>https://github.com/argherna</url>
@@ -158,7 +158,7 @@
     <connection>scm:git:git@github.com:argherna/grundy.git</connection>
     <developerConnection>scm:git:git@github.com:argherna/grundy.git</developerConnection>
     <url>git@github.com:argherna/grundy.git</url>
-    <tag>grundy-1.0.0</tag>
+    <tag>1.0.0</tag>
   </scm>
 
   <inceptionYear>2016</inceptionYear>
